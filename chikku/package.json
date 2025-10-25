@@ -1,0 +1,29 @@
+{
+  "name": "chikku",
+  "version": "1.0.0",
+  "description": "this is chikku's react app",
+  "homepage": "https://github.com/24chirag/namasteReact#readme",
+  "bugs": {
+    "url": "https://github.com/24chirag/namasteReact/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24chirag/namasteReact.git"
+  },
+  "license": "ISC",
+  "author": "chirag sharma",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@swc/core": "^1.13.21",
+    "parcel": "2.8.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
